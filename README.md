@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lyallemma
+- 👀 I’m interested in photography, motorcycles, coding, video games
+- 🌱 I’m currently learning advanced c#, .net core, Entity Framework, AWS
+- 💞️ I’m looking to collaborate on interesting projects
+- 📫 How to reach me tadeas.toth@gmail.com or find out more through my website www.tadeas-toth.eu
